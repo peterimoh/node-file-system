@@ -1,0 +1,15 @@
+{
+  "name": "file-system",
+  "version": "1.0.0",
+  "description": "fetch data from json placeholder post server and write to the file system using node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "peter imoh victor",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node-fetch": "^2.6.1"
+  }
+}
